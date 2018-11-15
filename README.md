@@ -1,10 +1,5 @@
+ ## Preview
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) 
+[![New Age Preview](...jpg)](https://....github.io/.../)
 
-## Preview
-
-[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
-
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
+**[View Live Preview](https://...github.io/.../)**
