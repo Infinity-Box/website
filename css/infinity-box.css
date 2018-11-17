@@ -151,8 +151,8 @@ header.masthead {
   width: 100%;
   padding-top: 150px;
   padding-bottom: 100px;
-  color: #fff;
-  background-image: url('../img/tabletop-cutout-close.jpg');
+  color: #000;
+  background-image: url('../img/classroom.jpg');
   background-size:cover;
   background-repeat: no-repeat;
 }
