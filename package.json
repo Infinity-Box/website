@@ -27,12 +27,12 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.15.3",
-        "bootstrap": "5.0.0",
-        "glob-parent": "^5.1.2",
+        "bootstrap": "^5.0.1",
+        "glob-parent": "^6.0.0",
         "jquery": "3.6.0",
         "jquery.easing": "^1.4.1",
         "simple-line-icons": "2.5.5",
-        "trim-newlines": "^1.0.0"
+        "trim-newlines": "^4.0.2"
     },
     "devDependencies": {
         "browser-sync": "2.26.14",
